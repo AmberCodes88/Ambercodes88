@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I’m Amber Costley
 
-<!--
-**AmberCodes88/Ambercodes88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring application developer with 8+ years in financial operations at Citi. I’m currently studying Information Technology at DeVry University, learning Python, cloud tech, and automation.
 
-Here are some ideas to get you started:
+💻 Currently Building:
+- 🏦 Personal Banking App (Python CLI)
+- 🛠️ Issue Tracker Web App (Flask + SQLite)
+- 📊 CSV Data Cleaner (automation script)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Certifications in progress:
+- CompTIA A+
+- AWS Cloud Practitioner
+- Python PCAP
+
+📍 Based in Yulee, FL | Remote Worker  
+🔗 [LinkedIn](https://linkedin.com/in/ambercostley)
+
